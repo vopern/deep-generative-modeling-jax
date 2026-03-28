@@ -1,0 +1,10 @@
+[project]
+name = "deep-generative-modeling-jax"
+version = "0.1.0"
+description = "A collection of exercise projects for various models."
+requires-python = ">=3.13"
+dependencies = [
+    "flax>=0.12.6",
+    "jax>=0.9.2",
+    "optax>=0.2.8",
+]
