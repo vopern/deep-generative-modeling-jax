@@ -8,7 +8,7 @@ of more or less recent algorithms, without going to deep into mathematical deriv
 Notebooks
 - are not optimized in any way
 - do not contain mathematically complete or rigorous derivations
-- are not an overview over latest methods
+- are not an overview over latest methods.
 - References are not a complete list of historical contributions, but sources and propositions for further reading 
 - Toy examples are constructed for visualization, not usefulness.
 
@@ -20,5 +20,6 @@ Algorithms are implemented using [Jax](https://docs.jax.dev/en/latest/notebooks/
 - **Variational autoencoders** 
 - **Diffusion Models**
 - **Score matching Models**
+- **Masked diffusion (discrete sequences)**
 - **Flow Matching**
 - to be continued..
